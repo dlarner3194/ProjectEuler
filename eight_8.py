@@ -21,5 +21,5 @@ for i in numString:
     prod = np.prod(firstThirteen)
 
     
-print(firstThirteen)
+print(firstThirteen) 
 print(prod)
